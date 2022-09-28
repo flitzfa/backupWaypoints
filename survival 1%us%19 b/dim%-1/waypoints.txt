@@ -1,0 +1,12 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type
+#
+waypoint:Granja totems:G:56:70:-130:9:false:0:gui.xaero_default:false:0:0
+waypoint:Templo acuatico:T:-103:64:-884:8:false:0:gui.xaero_default:false:0:0
+waypoint:Badlands:B:308:60:-273:5:false:0:gui.xaero_default:false:0:0
+waypoint:portal end?:P:106:37:-152:14:false:0:gui.xaero_default:false:0:0
+waypoint:Spawner blaze:S:123:68:-131:9:false:0:gui.xaero_default:false:0:0
+waypoint:Puente fortaleza:P:45:41:-223:8:false:0:gui.xaero_default:false:0:0
+waypoint:Portal Casa:P:-94:41:-223:6:false:0:gui.xaero_default:false:0:0
+waypoint:Portal a mansion:M:-272:63:-265:8:false:0:gui.xaero_default:false:0:0
+waypoint:Salida temp nether:S:-374:52:-196:4:false:0:gui.xaero_default:false:0:0

@@ -1,0 +1,27 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type
+#
+waypoint:spawner arañas de cueva:S:-737:-4:-1576:12:false:0:gui.xaero_default:false:0:0
+waypoint:Mushroom island 1400:M:384:71:-879:4:false:0:gui.xaero_default:false:0:0
+waypoint:Granja totems:G:426:63:-1039:9:false:0:gui.xaero_default:false:0:0
+waypoint:mushroom island 4800 :M:3650:78:314:5:false:0:gui.xaero_default:false:0:0
+waypoint:monumento acuatico 3300:M:1709:72:517:9:false:0:gui.xaero_default:false:0:0
+waypoint:Mushroom island 1700 :M:713:75:-219:6:false:0:gui.xaero_default:false:0:0
+waypoint:Templo agua 1700 bloques:T:1174:66:-1405:11:false:0:gui.xaero_default:false:0:0
+waypoint:Casa brujas:C:-2269:69:-2429:5:false:0:gui.xaero_default:false:0:0
+waypoint:Granja de creepers:G:-1246:63:-2090:2:false:0:gui.xaero_default:false:0:0
+waypoint:Monumento acuatico 1400 bloques:M:-1747:60:-800:0:false:0:gui.xaero_default:false:0:0
+waypoint:Mushroom island 3000 bloques:M:-2134:70:696:12:false:0:gui.xaero_default:false:0:0
+waypoint:Templo agua 4000 bloques:T:-2952:61:1234:5:false:0:gui.xaero_default:false:0:0
+waypoint:Tortugas cerca:T:-1560:62:-1764:2:false:0:gui.xaero_default:false:0:0
+waypoint:Templo acuatico:T:-864:62:-7056:5:false:0:gui.xaero_default:false:0:0
+waypoint:Aldea 3800 bloques casa:A:-789:70:-5626:10:false:0:gui.xaero_default:false:0:0
+waypoint:Aldea 1700 bloques casa:A:-772:63:-3538:2:false:0:gui.xaero_default:false:0:0
+waypoint:Badlands 1:B:-681:63:-3438:6:false:0:gui.xaero_default:false:0:0
+waypoint:Aldea 700 bloques casa:A:-695:64:-2535:2:false:0:gui.xaero_default:false:0:0
+waypoint:Aldea cercana:A:-337:69:-1886:4:false:0:gui.xaero_default:false:0:0
+waypoint:Portal end:P:886:-30:-1252:12:false:0:gui.xaero_default:false:0:0
+waypoint:huevos de tortuga:H:1030:63:-1994:9:false:0:gui.xaero_default:false:0:0
+waypoint:puesto pilager:P:-403:66:-1707:5:false:0:gui.xaero_default:false:0:0
+waypoint:mansion:M:-2185:67:-2107:13:false:0:gui.xaero_default:false:0:0
+waypoint:Casa:C:-681:69:-1804:8:false:0:gui.xaero_default:false:0:0

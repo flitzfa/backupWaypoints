@@ -1,6 +1,12 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type
 #
+waypoint:Portal granja de oro:P:-94:128:-248:4:false:0:gui.xaero_default:false:0:0
+waypoint:Granja slimes:G:-1195:128:-289:2:false:0:gui.xaero_default:false:0:0
+waypoint:Bastion:B:197:92:-536:8:false:0:gui.xaero_default:false:0:0
+waypoint:Bastion:B:-215:82:-647:4:false:0:gui.xaero_default:false:0:0
+waypoint:Bastion:B:-655:86:-530:10:false:0:gui.xaero_default:false:0:0
+waypoint:Bastion:B:-311:84:16:1:false:0:gui.xaero_default:false:0:0
 waypoint:Granja oro:G:-122:128:-473:7:false:0:gui.xaero_default:false:0:0
 waypoint:Granja totems:G:56:70:-130:9:false:0:gui.xaero_default:false:0:0
 waypoint:Templo acuatico:T:-103:64:-884:8:false:0:gui.xaero_default:false:0:0
